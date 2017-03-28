@@ -7,7 +7,7 @@
 | Märt Põder | [boamaod](https://github.com/boamaod) | MTÜ Open Knowledge Estonia board member | 
 | Tanel Mällo |  | MTÜ Open Knowledge Estonia board member | 
 | Andres Kütt | [andreskytt](https://github.com/andreskytt) | MTÜ Open Knowledge Estonia board member | 
-| Siim Tuisk |  |  | 
+| Siim Tuisk | [luuletaja](https://github.com/luuletaja) |  | 
 | Heikki Visnapuu |  |  | 
 | Risto Hinno | [RRisto](https://github.com/rristo) |  | 
 | Adolfo Ruiz Calleja |  |  | 
@@ -16,7 +16,7 @@
 | Peep Küngas | [peepkungas](https://github.com/peepkungas) | Register OÜ | 
 | Andi Hektor |  |  | 
 | Oliver Kadak |  | Stats Unities OÜ | 
-| Antti Poikola |  | Open Knowledge Finland | 
+| Antti Poikola | [apoikola](https://github.com/apoikola) | Open Knowledge Finland | 
 | Margo Loor | [loorm](https://github.com/loorm) | Citizen OS (Teeme Ära SA) | 
 |  |  |  | 
 |  |  |  | 
