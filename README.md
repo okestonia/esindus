@@ -1,4 +1,4 @@
-# esindus
+# MTÜ Open Knowledge Estonia esindus
 
 [MTÜ Open Knowledge Estonia](http://ee.okfn.org) esindus GitHubis. 
 
