@@ -2,11 +2,11 @@
 
 | Member | Representative | Role | 
 |--|--|--| 
-| [Maarja-Leena Saar](https://github.com/infokujur) |  | MTÜ Open Knowledge Estonia board member | 
-| [Hille Hinsberg](https://github.com/Hillehinsberg) |  | MTÜ Open Knowledge Estonia board member | 
-| [Märt Põder](https://github.com/boamaod) |  | MTÜ Open Knowledge Estonia board member | 
-| Tanel Mällo |  | MTÜ Open Knowledge Estonia board member | 
-| [Andres Kütt](https://github.com/andreskytt) |  | MTÜ Open Knowledge Estonia board member | 
+| [Maarja-Leena Saar](https://github.com/infokujur) |  | board member | 
+| [Hille Hinsberg](https://github.com/Hillehinsberg) |  | board member | 
+| [Märt Põder](https://github.com/boamaod) |  | board member | 
+| Tanel Mällo |  | board member | 
+| [Andres Kütt](https://github.com/andreskytt) |  | board member | 
 | [Siim Tuisk](https://github.com/luuletaja) |  |  | 
 | Heikki Visnapuu |  |  | 
 | [Risto Hinno](https://github.com/rristo) |  |  | 
