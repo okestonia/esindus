@@ -9,7 +9,7 @@
 | [Andres Kütt](https://github.com/andreskytt) |  | MTÜ Open Knowledge Estonia board member | 
 | [Siim Tuisk](https://github.com/luuletaja) |  |  | 
 | Heikki Visnapuu |  |  | 
-| Risto Hinno | [RRisto](https://github.com/rristo) |  | 
+| [Risto Hinno](https://github.com/rristo) |  |  | 
 | Adolfo Ruiz Calleja |  |  | 
 | [Edmund Laugasson](https://github.com/edmundlaugasson) |  |  | 
 | DataMe OÜ | Marko Vaik |  | 
