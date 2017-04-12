@@ -18,6 +18,6 @@
 | Oliver Kadak |  | Stats Unities OÜ | 
 | Antti Poikola | [apoikola](https://github.com/apoikola) | Open Knowledge Finland | 
 | Margo Loor | [loorm](https://github.com/loorm) | Citizen OS (Teeme Ära SA) | 
-|  |  |  | 
-|  |  |  | 
-|  |  |  | 
+| Vahur Puik | [puik](https://github.com/puik) |  | 
+| Hedi Mardisoo |  |  | 
+| Edgar Aronov |  |  | 
