@@ -1,23 +1,23 @@
 ## MTÜ Open Knowledge Estonia members list
 
-| Name | GitHub | Organization | 
+| Member | Representative | Role | 
 |--|--|--| 
-| Maarja-Leena Saar | [infokujur](https://github.com/infokujur) | MTÜ Open Knowledge Estonia board member | 
-| Hille Hinsberg | [Hillehinsberg](https://github.com/Hillehinsberg) | MTÜ Open Knowledge Estonia board member | 
-| Märt Põder | [boamaod](https://github.com/boamaod) | MTÜ Open Knowledge Estonia board member | 
-| Tanel Mällo |  | MTÜ Open Knowledge Estonia board member | 
-| Andres Kütt | [andreskytt](https://github.com/andreskytt) | MTÜ Open Knowledge Estonia board member | 
-| Siim Tuisk | [luuletaja](https://github.com/luuletaja) |  | 
+| [Maarja-Leena Saar](https://github.com/infokujur) |  | board member | 
+| [Hille Hinsberg](https://github.com/Hillehinsberg) |  | board member | 
+| [Märt Põder](https://github.com/boamaod) |  | board member | 
+| Tanel Mällo |  | board member | 
+| [Andres Kütt](https://github.com/andreskytt) |  | board member | 
+| [Siim Tuisk](https://github.com/luuletaja) |  |  | 
 | Heikki Visnapuu |  |  | 
-| Risto Hinno | [RRisto](https://github.com/rristo) |  | 
+| [Risto Hinno](https://github.com/rristo) |  |  | 
 | Adolfo Ruiz Calleja |  |  | 
-| Edmund Laugasson | [edmundlaugasson](https://github.com/edmundlaugasson) |  | 
-| Marko Vaik |  | DataMe OÜ | 
-| Peep Küngas | [peepkungas](https://github.com/peepkungas) | Register OÜ | 
+| [Edmund Laugasson](https://github.com/edmundlaugasson) |  |  | 
+| DataMe OÜ | Marko Vaik |  | 
+| Register OÜ | [Peep Küngas](https://github.com/peepkungas) |  |
 | Andi Hektor |  |  | 
-| Oliver Kadak |  | Stats Unities OÜ | 
-| Antti Poikola | [apoikola](https://github.com/apoikola) | Open Knowledge Finland | 
-| Margo Loor | [loorm](https://github.com/loorm) | Citizen OS (Teeme Ära SA) | 
-|  |  |  | 
-|  |  |  | 
-|  |  |  | 
+| Stats Unities OÜ | Oliver Kadak |  |
+| Open Knowledge Finland | [Antti Poikola](https://github.com/apoikola) |  | 
+| Citizen OS (Teeme Ära SA) | [Margo Loor](https://github.com/loorm) |  |
+| [Vahur Puik](https://github.com/puik) |  |  |
+| Hedi Mardisoo |  |  | 
+| Edgar Aronov |  |  | 
