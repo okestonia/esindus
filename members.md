@@ -6,7 +6,7 @@
 | [Hille Hinsberg](https://github.com/Hillehinsberg) |  | board member | 
 | [Märt Põder](https://github.com/boamaod) |  | board member | 
 | Tanel Mällo |  | board member | 
-| [Andres Kütt](https://github.com/andreskytt) |  | board member | 
+| [Andres Kütt](https://github.com/andreskytt) |  | advisory board member | 
 | [Siim Tuisk](https://github.com/luuletaja) |  |  | 
 | Heikki Visnapuu |  |  | 
 | [Risto Hinno](https://github.com/rristo) |  |  | 
