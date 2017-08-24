@@ -21,3 +21,4 @@
 | [Vahur Puik](https://github.com/puik) |  |  |
 | Hedi Mardisoo |  |  | 
 | Edgar Aronov |  |  | 
+| Tormi Tabor |  |  |
