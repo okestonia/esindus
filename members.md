@@ -6,13 +6,13 @@
 | [Hille Hinsberg](https://github.com/Hillehinsberg) |  | member |  |
 | [Märt Põder](https://github.com/boamaod) |  | advisory board member |  |
 | Tanel Mällo |  | advisory board member |	tanel.mallo@okee.ee |
-| [Andres Kütt](https://github.com/andreskytt) |  | OD team |  | 
+| [Andres Kütt](https://github.com/andreskytt) |  | OD team | andres@okee.ee | 
 | [Siim Tuisk](https://github.com/luuletaja) |  | member |  |
 | Heikki Visnapuu |  | member |  |
 | [Risto Hinno](https://github.com/rristo) |  | member |  |
 | Adolfo Ruiz Calleja |  | member |  |
 | [Edmund Laugasson](https://github.com/edmundlaugasson) |  | member |  |
-| DataMe OÜ | Marko Vaik | board member | marko@okee.ee |
+| DataMe OÜ | [Marko Vaik](https://github.com/vaikmarko) | board member | marko@okee.ee |
 | Register OÜ | [Peep Küngas](https://github.com/peepkungas) | advisory board member |	peep@okee.ee |
 | Andi Hektor |  | member |  |
 | Stats Unities OÜ | Oliver Kadak | member |  |
