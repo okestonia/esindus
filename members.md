@@ -24,3 +24,4 @@
 | [Keegan McBride](https://github.com/keeganmcbride) |  | OD team | keegan@okee.ee |
 | [Annegrete Peek](https://github.com/annegretepeek) |  | OD team | annegrete@okee.ee |
 | [Maarja Toots](https://github.com/maarjatoots) |  | OD team |	maarja@okee.ee |
+| NJORD Advokaadibüroo OÜ | Katrin Sarap | member |  |
