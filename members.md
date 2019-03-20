@@ -13,7 +13,7 @@
 | Adolfo Ruiz Calleja |  | member |  |
 | [Edmund Laugasson](https://github.com/edmundlaugasson) |  | member |  |
 | DataMe OÜ | [Marko Vaik](https://github.com/vaikmarko) | board member | marko@okee.ee |
-| Scoriff OÜ | [Peep Küngas](https://github.com/peepkungas) | advisory board member |	peep@okee.ee |
+| [Scoriff OÜ](https://scoriff.com) | [Peep Küngas](https://github.com/peepkungas) | advisory board member |	peep@okee.ee |
 | Andi Hektor |  | member |  |
 | Stats Unities OÜ | Oliver Kadak | member |  |
 | Open Knowledge Finland | [Antti Poikola](https://github.com/apoikola) | member |  |
