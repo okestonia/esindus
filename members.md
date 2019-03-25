@@ -25,4 +25,4 @@
 | [Annegrete Peek](https://github.com/annegretepeek) |  | OD team | annegrete@okee.ee |
 | [Maarja Toots](https://github.com/maarjatoots) |  | OD team |	maarja@okee.ee |
 | NJORD Advokaadibüroo OÜ | Katrin Sarap | member |  |
-| Teele Pehk |  | volunteer | teele@okee.ee |
+| [Teele Pehk](https://github.com/teelepehk) |  | volunteer | teele@okee.ee |
