@@ -2,7 +2,7 @@
 
 | Name | Representative | Role | Contact | 
 |--|--|--|--|
-| [Maarja-Leena Saar](https://github.com/infokujur) |  | board member | maarjaleena@okee.ee |
+| [Maarja-Leena Saar](https://github.com/infokujur) |  | board member/OD team | maarjaleena@okee.ee |
 | [Hille Hinsberg](https://github.com/Hillehinsberg) |  | member |  |
 | [Märt Põder](https://github.com/boamaod) |  | advisory board member |  |
 | Tanel Mällo |  | advisory board member |	tanel.mallo@okee.ee |
@@ -25,3 +25,4 @@
 | [Annegrete Peek](https://github.com/annegretepeek) |  | OD team | annegrete@okee.ee |
 | [Maarja Toots](https://github.com/maarjatoots) |  | OD team |	maarja@okee.ee |
 | NJORD Advokaadibüroo OÜ | Katrin Sarap | member |  |
+| Teele Pehk |  | volunteer | teele@okee.ee |
