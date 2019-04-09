@@ -1,4 +1,6 @@
-## MTÜ Open Knowledge Estonia members list
+## MTÜ Open Knowledge Estonia members list and contacts
+
+Main contact info@okee.ee
 
 | Name | Representative | Role | Contact | 
 |--|--|--|--|
