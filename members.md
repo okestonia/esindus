@@ -4,7 +4,7 @@ Main contact info@okee.ee
 
 | Jrk | Name | Representative | Role | Contact | 
 |--|--|--|--|--|
-| 1 | [Maarja-Leena Saar](https://github.com/infokujur) |  | board member/OD team | maarjaleena@okee.ee |
+| 1 | [Maarja-Leena Saar](https://github.com/infokujur) |  | board member / OD team / andmeusk team | maarjaleena@okee.ee |
 | 2 | [Hille Hinsberg](https://github.com/Hillehinsberg) |  | member |  |
 | 3 | [Märt Põder](https://github.com/boamaod) |  | advisory board member |  |
 | 4 | Tanel Mällo |  | advisory board member |	tanel.mallo@okee.ee |
@@ -14,7 +14,7 @@ Main contact info@okee.ee
 | 7 | [Risto Hinno](https://github.com/rristo) |  | member |  |
 | 8 | Adolfo Ruiz Calleja |  | member |  |
 | 9 | [Edmund Laugasson](https://github.com/edmundlaugasson) |  | member |  |
-| 10 | DataMe OÜ | [Marko Vaik](https://github.com/vaikmarko) | board member | marko@okee.ee |
+| 10 | DataMe OÜ | [Marko Vaik](https://github.com/vaikmarko) | board member / andmeusk team | marko@okee.ee |
 | 11 | [Scoriff OÜ](https://scoriff.com) | [Peep Küngas](https://github.com/peepkungas) | advisory board member |	peep@okee.ee |
 | 12 | Andi Hektor |  | member |  |
 | 13 | Stats Unities OÜ | Oliver Kadak | member |  |
@@ -27,4 +27,5 @@ Main contact info@okee.ee
 |--| [Annegrete Peek](https://github.com/annegretepeek) |  | OD team | annegrete@okee.ee |
 |--| [Maarja Toots](https://github.com/maarjatoots) |  | OD team |	maarja@okee.ee |
 | 19 | NJORD Advokaadibüroo OÜ | Katrin Sarap | member |  |
-|--| [Teele Pehk](https://github.com/teelepehk) |  | volunteer | teele@okee.ee |
+|--| [Teele Pehk](https://github.com/teelepehk) |  | andmeusk team | teele@okee.ee |
+|--| [Kristjan Maasalu](https://github.com/pilbastex) |  | andmeusk team | kristjan@okee.ee |
