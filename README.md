@@ -8,4 +8,4 @@
 
 Tegevusliinid
 * [Avaandmete arendamine](https://opendata.riik.ee/)
-* Digikirjaoskuse arendamine - [Andmeusk (tööpealkiri) Nula inkubaatoris](https://github.com/okestonia/andmeusk)
+* Digikirjaoskuse arendamine - [andmekool Nula inkubaatoris](https://github.com/okestonia/andmeusk)
