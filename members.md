@@ -15,7 +15,7 @@ Main contact info@okee.ee
 | 8 | Adolfo Ruiz Calleja |  | member |  |
 | 9 | [Edmund Laugasson](https://github.com/edmundlaugasson) |  | member |  |
 | 10 | DataMe OÜ | [Marko Vaik](https://github.com/vaikmarko) | board member / andmekool team | marko@okee.ee |
-| 11 | [Scoriff OÜ](https://scoriff.com) | [Peep Küngas](https://github.com/peepkungas) | advisory board member (peatatud) OD team |	peep@okee.ee |
+| 11 | [Scoriff OÜ](https://scoriff.com) | [Peep Küngas](https://github.com/peepkungas) | advisory board member (peatatud) / OD team |	peep@okee.ee |
 | 12 | Andi Hektor |  | member |  |
 | 13 | Stats Unities OÜ | Oliver Kadak | member |  |
 | 14 | Open Knowledge Finland | [Antti Poikola](https://github.com/apoikola) | member |  |
