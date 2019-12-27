@@ -29,3 +29,5 @@ Main contact info@okee.ee
 | 19 | NJORD Advokaadibüroo OÜ | Katrin Sarap | member |  |
 |--| [Teele Pehk](https://github.com/teelepehk) |  | andmekool team | teele@okee.ee |
 |--| [Kristjan Maasalu](https://github.com/pilbastex) |  | andmekool team | kristjan@okee.ee |
+|20| Maria Hansar |  | member |  |
+|21| Ivo Kruusamägi |  | member |  |
