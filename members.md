@@ -31,3 +31,4 @@ Main contact info@okee.ee
 |--| [Kristjan Maasalu](https://github.com/pilbastex) |  | andmekool team | kristjan@okee.ee |
 |20| Maria Hansar |  | member |  |
 |21| Ivo Kruusamägi |  | member |  |
+|--| Andrus Raudsep |  | andmekool team | andrus@okee.ee |
