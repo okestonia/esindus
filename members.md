@@ -6,8 +6,8 @@ Main contact info@okee.ee
 |--|--|--|--|--|
 | 1 | [Maarja-Leena Saar](https://github.com/infokujur) |  | board member / OD team / andmekool team | maarjaleena@okee.ee |
 | 2 | [Hille Hinsberg](https://github.com/Hillehinsberg) |  | member |  |
-| 3 | [Märt Põder](https://github.com/boamaod) |  | advisory board member |  |
-| 4 | Tanel Mällo |  | advisory board member |	tanel.mallo@okee.ee |
+| 3 | [Märt Põder](https://github.com/boamaod) |  | member |  |
+| 4 | Tanel Mällo |  | member |	tanel.mallo@okee.ee |
 |--| [Andres Kütt](https://github.com/andreskytt) |  |  | andres@okee.ee | 
 | 5 | [Siim Tuisk](https://github.com/luuletaja) |  | member |  |
 | 6 | Heikki Visnapuu |  | member |  |
@@ -15,7 +15,7 @@ Main contact info@okee.ee
 | 8 | Adolfo Ruiz Calleja |  | member |  |
 | 9 | [Edmund Laugasson](https://github.com/edmundlaugasson) |  | member |  |
 | 10 | DataMe OÜ | [Marko Vaik](https://github.com/vaikmarko) | board member / andmekool team | marko@okee.ee |
-| 11 | [Scoriff OÜ](https://scoriff.com) | [Peep Küngas](https://github.com/peepkungas) | advisory board member (peatatud) / OD team |	peep@okee.ee |
+| 11 | [Scoriff OÜ](https://scoriff.com) | [Peep Küngas](https://github.com/peepkungas) | member / OD team |	peep@okee.ee |
 | 12 | Andi Hektor |  | member |  |
 | 13 | Stats Unities OÜ | Oliver Kadak | member |  |
 | 14 | Open Knowledge Finland | [Antti Poikola](https://github.com/apoikola) | member |  |
