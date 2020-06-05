@@ -5,9 +5,9 @@ Main contact info@okee.ee
 | Jrk | Name | Representative | Role | Contact | 
 |--|--|--|--|--|
 | 1 | [Maarja-Leena Saar](https://github.com/infokujur) |  | board member / OD team / andmekool team | maarjaleena@okee.ee |
-| 2 | [Hille Hinsberg](https://github.com/Hillehinsberg) |  | member |  |
+| 2 | [Hille Hinsberg](https://github.com/Hillehinsberg) |  | board member | hille@okee.ee |
 | 3 | [Märt Põder](https://github.com/boamaod) |  | member |  |
-| 4 | Tanel Mällo |  | member |	tanel.mallo@okee.ee |
+| 4 | [Maarja Toots](https://github.com/maarjatoots) |  | board member / OD team |	maarja@okee.ee |
 |--| [Andres Kütt](https://github.com/andreskytt) |  |  | andres@okee.ee | 
 | 5 | [Siim Tuisk](https://github.com/luuletaja) |  | member |  |
 | 6 | Heikki Visnapuu |  | member |  |
@@ -25,10 +25,11 @@ Main contact info@okee.ee
 | 18 | Edgar Aronov |  | member |  |
 |--| [Keegan McBride](https://github.com/keeganmcbride) |  | OD team | keegan@okee.ee |
 |--| [Annegrete Peek](https://github.com/annegretepeek) |  | OD team | annegrete@okee.ee |
-|--| [Maarja Toots](https://github.com/maarjatoots) |  | OD team |	maarja@okee.ee |
 | 19 | NJORD Advokaadibüroo OÜ | Katrin Sarap | member |  |
-|--| [Teele Pehk](https://github.com/teelepehk) |  | andmekool team | teele@okee.ee |
 |--| [Kristjan Maasalu](https://github.com/pilbastex) |  | andmekool team | kristjan@okee.ee |
 |20| Maria Hansar |  | member |  |
 |21| Ivo Kruusamägi |  | member |  |
-|--| Andrus Raudsep |  | andmekool team | andrus@okee.ee |
+|22| [Teele Pehk](https://github.com/teelepehk) |  | andmekool team | teele@okee.ee |
+|23| Sille Sepp |  | member |  |
+|--| Andrus Raudsep |  |  | andrus@okee.ee |
+|--| Tanel Mällo |  |  |	tanel.mallo@okee.ee |
