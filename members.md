@@ -29,7 +29,7 @@ Main contact info@okee.ee
 |--| [Kristjan Maasalu](https://github.com/pilbastex) |  | andmekool team | kristjan@okee.ee |
 |20| Maria Hansar |  | member |  |
 |21| Ivo Kruusamägi |  | member |  |
-|22| [Teele Pehk](https://github.com/teelepehk) |  | andmekool team | teele@okee.ee |
+|22| [Teele Pehk](https://github.com/teelepehk) |  | member / andmekool team | teele@okee.ee |
 |23| Sille Sepp |  | member |  |
 |--| Andrus Raudsep |  |  | andrus@okee.ee |
 |--| Tanel Mällo |  |  |	tanel.mallo@okee.ee |
