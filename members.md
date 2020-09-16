@@ -33,3 +33,4 @@ Main contact info@okee.ee
 |23| Sille Sepp |  | member |  |
 |--| Andrus Raudsep |  |  | andrus@okee.ee |
 |--| Tanel Mällo |  |  |	tanel.mallo@okee.ee |
+|--| Kelli Seiton |  |  |	kelli@okee.ee |
