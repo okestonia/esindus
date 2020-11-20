@@ -34,3 +34,4 @@ Main contact info@okee.ee
 |--| Andrus Raudsep |  |  | andrus@okee.ee |
 |--| Tanel Mällo |  |  |	tanel.mallo@okee.ee |
 |--| Kelli Seiton |  |  |	kelli@okee.ee |
+|--| Tehumiin OÜ  (www.loginstatistics.com) | Viljar Puusepp | member |  |
