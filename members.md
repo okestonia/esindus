@@ -13,7 +13,7 @@ Main contact info@okee.ee
 | 7 | [Risto Hinno](https://github.com/rristo) |  | member |  |
 | 8 | Adolfo Ruiz Calleja |  | member |  |
 | 9 | [Edmund Laugasson](https://github.com/edmundlaugasson) |  | member |  |
-| 10 | DataMe OÜ | [Marko Vaik](https://github.com/vaikmarko) | marko@okee.ee |
+| 10 | DataMe OÜ | [Marko Vaik](https://github.com/vaikmarko) | member |  marko@okee.ee |
 | 11 | [Scoriff OÜ](https://scoriff.com) | [Peep Küngas](https://github.com/peepkungas) | member |	peep@okee.ee |
 | 12 | Andi Hektor |  | member |  |
 | 13 | Stats Unities OÜ | Oliver Kadak | member |  |
@@ -28,12 +28,12 @@ Main contact info@okee.ee
 |22| [Teele Pehk](https://github.com/teelepehk) |  | member | teele@okee.ee |
 |23| Sille Sepp |  | member |  |
 |24| Tehumiin OÜ  (www.loginstatistics.com) | Viljar Puusepp | member |  |
-|--| Allar Viik | 	allar.viik@okee.ee |
-|--| [Andres Kütt](https://github.com/andreskytt) |  | andres@okee.ee | 
-|--| [Keegan McBride](https://github.com/keeganmcbride) |  | keegan@okee.ee |
-|--| [Annegrete Peek](https://github.com/annegretepeek) |  | annegrete@okee.ee |
-|--| [Kristjan Maasalu](https://github.com/pilbastex) |  | kristjan@okee.ee |
-|--| Andrus Raudsep |  | andrus@okee.ee |
-|--| Tanel Mällo |  |	tanel.mallo@okee.ee |
-|--| Kelli Seiton |  |	kelli@okee.ee |
+|--| Allar Viik |  |  |	allar.viik@okee.ee |
+|--| [Andres Kütt](https://github.com/andreskytt) |  |  | andres@okee.ee | 
+|--| [Keegan McBride](https://github.com/keeganmcbride) |  |  | keegan@okee.ee |
+|--| [Annegrete Peek](https://github.com/annegretepeek) |  |  | annegrete@okee.ee |
+|--| [Kristjan Maasalu](https://github.com/pilbastex) |  |  | kristjan@okee.ee |
+|--| Andrus Raudsep |  |  | andrus@okee.ee |
+|--| Tanel Mällo |  |  |	tanel.mallo@okee.ee |
+|--| Kelli Seiton |  |  |	kelli@okee.ee |
 
