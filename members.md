@@ -29,11 +29,4 @@ Main contact info@okee.ee
 |23| Sille Sepp |  | member |  |
 |24| Tehumiin OÜ  (www.loginstatistics.com) | Viljar Puusepp | member |  |
 |--| Allar Viik |  |  |	allar.viik@okee.ee |
-|--| [Andres Kütt](https://github.com/andreskytt) |  |  | andres@okee.ee | 
-|--| [Keegan McBride](https://github.com/keeganmcbride) |  |  | keegan@okee.ee |
-|--| [Annegrete Peek](https://github.com/annegretepeek) |  |  | annegrete@okee.ee |
-|--| [Kristjan Maasalu](https://github.com/pilbastex) |  |  | kristjan@okee.ee |
-|--| Andrus Raudsep |  |  | andrus@okee.ee |
-|--| Tanel Mällo |  |  |	tanel.mallo@okee.ee |
 |--| Kelli Seiton |  |  |	kelli@okee.ee |
-
