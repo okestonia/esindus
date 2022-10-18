@@ -1,11 +1,15 @@
 # MTÜ Open Knowledge Estonia esindus
 
-[MTÜ Open Knowledge Estonia](http://ee.okfn.org) esindus GitHubis. 
+[MTÜ Open Knowledge Estonia](https://okee.ee) esindus GitHubis. 
 
-* [liikmete nimekiri](members.md),
-* [dokumendiregister](https://github.com/okestonia/esindus/tree/master/dokumendid),
-* [aktiivsed teemad](https://github.com/okestonia/esindus/issues).
+Üldinfo:
+* [Liikmete nimekiri](members.md)
+* [Dokumendiregister](https://github.com/okestonia/esindus/tree/master/dokumendid)
+* [Aktiivsed teemad](https://github.com/okestonia/esindus/issues)
 
-Tegevusliinid
-* [Avaandmete arendamine](https://opendata.riik.ee/)
-* Digikirjaoskuse arendamine - [andmekool Nula inkubaatoris](https://github.com/okestonia/andmeusk)
+Tegevusliinid:
+* [Andmekool](https://okee.ee/andmekool/)
+* [Andmeklubid](https://okee.ee/andmeklubi/)
+* [Avaandmete poliitika jälgimine](https://okee.ee/andmepoliitika/)
+
+Vt ka meie [varasemaid projekte](https://okee.ee/projektid/)
