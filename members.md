@@ -22,7 +22,7 @@ Main contact info@okee.ee
 | 16 | [Vahur Puik](https://github.com/puik) |  | member |  |
 | 17 | Hedi Mardisoo |  | member |  |
 | 18 | Edgar Aronov |  | member |  |
-| 19 | NJORD Advokaadibüroo OÜ | Katrin Sarap | member |  |
+| 19 | NJORD Advokaadibüroo OÜ | Liisi Jürgen | member |  |
 |20| Maria Hansar |  | member |  |
 |21| Ivo Kruusamägi |  | member |  |
 |22| [Teele Pehk](https://github.com/teelepehk) |  | member | teele@okee.ee |
