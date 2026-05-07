@@ -30,4 +30,4 @@ Main contact info@okee.ee
 | 24 | Andri Moll | | | andri@dot.ee |
 | 25 | Tormi Tabor | | | |
 |--| Allar Viik |  |  |	allar.viik@okee.ee |
-|--| Kelli Seiton |  |  |	kelli@okee.ee |
+|--| Kelli Eek |  |  |	kelli@okee.ee |
