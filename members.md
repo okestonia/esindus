@@ -21,12 +21,12 @@ Main contact info@okee.ee
 | 15 | Hedi Mardisoo |  | member |  |
 | 16 | Edgar Aronov |  | member |  |
 | 17 | NJORD Advokaadibüroo OÜ | Liisi Jürgen | member |  |
-|18 Maria Hansar |  | member |  |
-|19| Ivo Kruusamägi |  | member |  |
-|20| [Teele Pehk](https://github.com/teelepehk) |  | member | teele@okee.ee |
-|21| Sille Sepp |  | member |  |
-|22| Tehumiin OÜ  (www.loginstatistics.com) | Viljar Puusepp | member |  |
-|23| Kristiina Kerge | | board member | kristiina@okee.ee |
-|24| Andri Moll | | | andri@dot.ee |
+| 18 | Maria Hansar |  | member |  |
+| 19 | Ivo Kruusamägi |  | member |  |
+| 20 | [Teele Pehk](https://github.com/teelepehk) |  | member | teele@okee.ee |
+| 21 | Sille Sepp |  | member |  |
+| 22 | Tehumiin OÜ  (www.loginstatistics.com) | Viljar Puusepp | member |  |
+| 23 | Kristiina Kerge | | board member | kristiina@okee.ee |
+| 24 | Andri Moll | | | andri@dot.ee |
 |--| Allar Viik |  |  |	allar.viik@okee.ee |
 |--| Kelli Seiton |  |  |	kelli@okee.ee |
