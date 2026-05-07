@@ -23,7 +23,7 @@ Main contact info@okee.ee
 | 17 | NJORD Advokaadibüroo OÜ | Liisi Jürgen | member |  |
 | 18 | Maria Hansar |  | member |  |
 | 19 | Ivo Kruusamägi |  | member |  |
-| 20 | [Teele Pehk](https://github.com/teelepehk) |  | member | teele@okee.ee |
+| 20 | [Teele Pehk](https://github.com/teelepehk) |  | member | 
 | 21 | Sille Sepp |  | member |  |
 | 22 | Tehumiin OÜ  (www.loginstatistics.com) | Viljar Puusepp | member |  |
 | 23 | Kristiina Kerge | | board member | kristiina@okee.ee |
