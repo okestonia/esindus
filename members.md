@@ -7,28 +7,26 @@ Main contact info@okee.ee
 | 1 | [Maarja-Leena Saar](https://github.com/infokujur) |  | board member | maarjaleena@okee.ee |
 | 2 | [Hille Hinsberg](https://github.com/Hillehinsberg) |  | board member | hille@okee.ee |
 | 3 | [Märt Põder](https://github.com/boamaod) |  | member |  |
-| 4 | [Maarja Olesk](https://github.com/maarjatoots) |  | member | maarja@okee.ee |
+| 4 | [Maarja Olesk](https://github.com/maarjatoots) |  | member | 
 | 5 | [Siim Tuisk](https://github.com/luuletaja) |  | member |  |
 | 6 | Heikki Visnapuu |  | member |  |
 | 7 | [Risto Hinno](https://github.com/rristo) |  | board member |  |
-| 8 | Adolfo Ruiz Calleja |  | member |  |
-| 9 | [Edmund Laugasson](https://github.com/edmundlaugasson) |  | member |  |
-| 10 | DataMe OÜ | [Marko Vaik](https://github.com/vaikmarko) | member |  |
-| 11 | [Scoriff OÜ](https://scoriff.com) | [Peep Küngas](https://github.com/peepkungas) | member |	peep@okee.ee |
-| 12 | Andi Hektor |  | member |  |
-| 13 | Stats Unities OÜ | Oliver Kadak | member |  |
-| 14 | Open Knowledge Finland | [Antti Poikola](https://github.com/apoikola) | member |  |
-| 15 | Citizen OS (Teeme Ära SA) | [Margo Loor](https://github.com/loorm) | member |  |
-| 16 | [Vahur Puik](https://github.com/puik) |  | member |  |
-| 17 | Hedi Mardisoo |  | member |  |
-| 18 | Edgar Aronov |  | member |  |
-| 19 | NJORD Advokaadibüroo OÜ | Liisi Jürgen | member |  |
-|20| Maria Hansar |  | member |  |
-|21| Ivo Kruusamägi |  | member |  |
-|22| [Teele Pehk](https://github.com/teelepehk) |  | member | teele@okee.ee |
-|23| Sille Sepp |  | member |  |
-|24| Tehumiin OÜ  (www.loginstatistics.com) | Viljar Puusepp | member |  |
-|25| Kristiina Kerge | | board member | kristiina@okee.ee |
-|26| Andri Moll | | | andri@dot.ee |
+| 8 | [Edmund Laugasson](https://github.com/edmundlaugasson) |  | member |  |
+| 9 | [Scoriff OÜ](https://scoriff.com) | [Peep Küngas](https://github.com/peepkungas) | member |	peep@okee.ee |
+| 10 | Andi Hektor |  | member |  |
+| 11 | Stats Unities OÜ | Oliver Kadak | member |  |
+| 12 | Open Knowledge Finland | [Antti Poikola](https://github.com/apoikola) | member |  |
+| 13 | Citizen OS | [Margo Loor](https://github.com/loorm) | member |  |
+| 14 | [Vahur Puik](https://github.com/puik) |  | member |  |
+| 15 | Hedi Mardisoo |  | member |  |
+| 16 | Edgar Aronov |  | member |  |
+| 17 | NJORD Advokaadibüroo OÜ | Liisi Jürgen | member |  |
+|18 Maria Hansar |  | member |  |
+|19| Ivo Kruusamägi |  | member |  |
+|20| [Teele Pehk](https://github.com/teelepehk) |  | member | teele@okee.ee |
+|21| Sille Sepp |  | member |  |
+|22| Tehumiin OÜ  (www.loginstatistics.com) | Viljar Puusepp | member |  |
+|23| Kristiina Kerge | | board member | kristiina@okee.ee |
+|24| Andri Moll | | | andri@dot.ee |
 |--| Allar Viik |  |  |	allar.viik@okee.ee |
 |--| Kelli Seiton |  |  |	kelli@okee.ee |
