@@ -15,7 +15,7 @@ Main contact info@okee.ee
 | 9 | [Scoriff OÜ](https://scoriff.com) | [Peep Küngas](https://github.com/peepkungas) | member |	peep@okee.ee |
 | 10 | Andi Hektor |  | member |  |
 | 11 | Stats Unities OÜ | Oliver Kadak | member |  |
-| 12 | Open Knowledge Finland | [Antti Poikola](https://github.com/apoikola) | member |  |
+| 12 | Open Knowledge Finland | | member |  |
 | 13 | Citizen OS | [Margo Loor](https://github.com/loorm) | member |  |
 | 14 | [Vahur Puik](https://github.com/puik) |  | member |  |
 | 15 | Hedi Mardisoo |  | member |  |
