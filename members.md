@@ -27,7 +27,7 @@ Main contact info@okee.ee
 | 21 | Sille Sepp |  | member |  |
 | 22 | Tehumiin OÜ  (www.loginstatistics.com) | Viljar Puusepp | member |  |
 | 23 | Kristiina Kerge | | board member | kristiina@okee.ee |
-| 24 | Andri Moll | | | andri@dot.ee |
-| 25 | Tormi Tabor | | | |
+| 24 | [Andri Möll](https://m811.com) | | member | andri@dot.ee |
+| 25 | Tormi Tabor | | member | |
 |--| Allar Viik |  |  |	allar.viik@okee.ee |
 |--| Kelli Eek |  |  |	kelli@okee.ee |
